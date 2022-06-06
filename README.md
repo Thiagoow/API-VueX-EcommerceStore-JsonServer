@@ -15,13 +15,13 @@ Acme Store - Ecommerce Example</a>.
 ##### Para instalar o projeto localmente:
 
 ```
-yarn install
+npm i
 ```
 
 ##### Para compilar/executar o projeto:
 
 ```
-yarn dev
+npm run dev
 ```
 
 <small>© Thiago Silva Lopes </small>
