@@ -1,5 +1,54 @@
 {
-  "products": [],
+  "products": [
+    {
+      "id": 6,
+      "quantity": 1,
+      "name": "Bafômetro romântico",
+      "imgUrl": "https://picsum.photos/seed/Bafômetroromântico/536/354",
+      "price": "R$ 6,00",
+      "description": "Bafômetro romântico random description. Lorem ipsum dolor."
+    },
+    {
+      "id": 3,
+      "quantity": 1,
+      "name": "Caneca feio",
+      "imgUrl": "https://picsum.photos/seed/Canecafeio/536/354",
+      "price": "R$ 22,00",
+      "description": "Caneca feio random description. Lorem ipsum dolor."
+    },
+    {
+      "id": 2,
+      "quantity": 1,
+      "name": "Andador honesto",
+      "imgUrl": "https://picsum.photos/seed/Andadorhonesto/536/354",
+      "price": "R$ 14,00",
+      "description": "Andador honesto random description. Lorem ipsum dolor."
+    },
+    {
+      "id": 1,
+      "quantity": 1,
+      "name": "Carretel disciplinado",
+      "imgUrl": "https://picsum.photos/seed/Carreteldisciplinado/536/354",
+      "price": "R$ 2,00",
+      "description": "Carretel disciplinado random description. Lorem ipsum dolor."
+    },
+    {
+      "id": 4,
+      "quantity": 1,
+      "name": "Mala legítimo",
+      "imgUrl": "https://picsum.photos/seed/Malalegítimo/536/354",
+      "price": "R$ 18,00",
+      "description": "Mala legítimo random description. Lorem ipsum dolor."
+    },
+    {
+      "id": 5,
+      "quantity": 1,
+      "name": "Geladeira odioso",
+      "imgUrl": "https://picsum.photos/seed/Geladeiraodioso/536/354",
+      "price": "R$ 12,00",
+      "description": "Geladeira odioso random description. Lorem ipsum dolor."
+    }
+  ],
   "cart": [],
   "favorites": []
 }
