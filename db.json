@@ -1,9 +1,5 @@
 {
-  "products": [
-    {
-      "page": "products"
-    }
-  ],
+  "products": [],
   "cart": [],
   "favorites": []
 }
