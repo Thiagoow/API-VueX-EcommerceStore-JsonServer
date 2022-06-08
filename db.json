@@ -1,48 +1,5 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "name": "Gel ignorante",
-      "imgUrl": "https://picsum.photos/seed/Gelignorante/536/354",
-      "price": 18,
-      "description": "Gel ignorante random description. Lorem ipsum dolor."
-    },
-    {
-      "id": 2,
-      "name": "Crachá magnífico",
-      "imgUrl": "https://picsum.photos/seed/Crachámagnífico/536/354",
-      "price": 12,
-      "description": "Crachá magnífico random description. Lorem ipsum dolor."
-    },
-    {
-      "id": 3,
-      "name": "Espanador injusto",
-      "imgUrl": "https://picsum.photos/seed/Espanadorinjusto/536/354",
-      "price": 10,
-      "description": "Espanador injusto random description. Lorem ipsum dolor."
-    },
-    {
-      "id": 4,
-      "name": "Andador honesto",
-      "imgUrl": "https://picsum.photos/seed/Andadorhonesto/536/354",
-      "price": 14,
-      "description": "Andador honesto random description. Lorem ipsum dolor."
-    },
-    {
-      "id": 5,
-      "name": "Vela de cera próspero",
-      "imgUrl": "https://picsum.photos/seed/Veladecerapróspero/536/354",
-      "price": 2,
-      "description": "Vela de cera próspero random description. Lorem ipsum dolor."
-    },
-    {
-      "id": 6,
-      "name": "Helióstato zeloso",
-      "imgUrl": "https://picsum.photos/seed/Helióstatozeloso/536/354",
-      "price": 10,
-      "description": "Helióstato zeloso random description. Lorem ipsum dolor."
-    }
-  ],
+  "products": [],
   "cart": [],
   "favorites": []
 }
