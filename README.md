@@ -6,7 +6,7 @@
 # JsonServer API para o projeto -> VueX-EcommerceStore
 
 <p>Essa API Rest foi feita por: <strong>Thiago Silva Lopes</strong>, em 06/2022.<br/>
-Sendo utilizada no projeto -> <a href="https://github.com/Thiagoow/VueJs-VueX-EcommerceStore-Sass">
+Sendo utilizada no projeto -> <a href="https://github.com/Thiagoow/VueJs-VueX-EcommerceStore-Sass/tree/DOT-DigitalGroup">
 Acme Store - Ecommerce Example</a>.
 </p>
 
